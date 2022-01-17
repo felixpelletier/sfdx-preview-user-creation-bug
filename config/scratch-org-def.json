@@ -1,0 +1,14 @@
+{
+  "orgName": "RolesTests",
+  "edition": "Developer",
+  "release": "Preview",
+  "features": [ "Communities", "EnableSetPasswordInApi" ],
+  "settings": {
+    "communitiesSettings": {
+      "enableNetworksEnabled": true
+    },
+    "sharingSettings": {
+      "enableSecureGuestAccess": false
+    }
+  }
+}

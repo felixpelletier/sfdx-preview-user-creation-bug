@@ -1,0 +1,1 @@
+sfdx force:user:create --targetusername user-creation-bug --setalias BadUser --definitionfile config/user-def.json
